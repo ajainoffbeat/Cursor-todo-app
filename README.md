@@ -14,16 +14,13 @@ A modern To-Do List application built with ASP.NET Core GraphQL backend, React f
 ## Tech Stack
 
 ### Backend
-- ASP.NET Core 8.0
+- ASP.NET Core 7.0
 - HotChocolate GraphQL
 - Entity Framework Core
 - SQLite Database
-- WebSocket subscriptions
 
 ### Frontend
 - React 18
-- Adobe React Spectrum
-- Relay GraphQL Client
 - TypeScript
 - Real-time subscriptions
 
@@ -35,7 +32,7 @@ A modern To-Do List application built with ASP.NET Core GraphQL backend, React f
 
 ### Prerequisites
 - Docker and Docker Compose
-- .NET 8.0 SDK (for local development)
+- .NET 7.0 SDK (for local development)
 - Node.js 18+ (for local development)
 
 ### Using Docker (Recommended)
