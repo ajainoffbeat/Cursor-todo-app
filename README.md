@@ -6,7 +6,6 @@ A modern To-Do List application built with ASP.NET Core GraphQL backend, React f
 
 - ✅ Create, update, and manage tasks
 - 🔄 Real-time synchronization across multiple clients
-- 🎨 Modern UI with Adobe React Spectrum components
 - 📱 Responsive design
 - 🐳 Docker containerization
 - 🔧 GraphQL API with subscriptions
